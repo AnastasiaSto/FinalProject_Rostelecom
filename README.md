@@ -5,7 +5,7 @@ ____
 
 + Тест-кейсы доступны по ссылке: 
 
-+ Баг-репорты доступны по ссылке:
++ Баг-репорт доступен по ссылке: https://docs.google.com/spreadsheets/d/1LA5V29MjZW232O25zwHRchtqF3JHFLET/edit?usp=sharing&ouid=104766159124306016011&rtpof=true&sd=true
 
 
 1. В папке pages в файле base_page.py находится конструктор webdriver и общие для всех тестируемых страниц методы.
